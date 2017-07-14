@@ -1,3 +1,4 @@
+/*谢刚亮*/
 #define rWTCON          0x53000000
 #define rINTMSK         0x4A000008      /* Interupt-Controller base addresses */
 #define rINTSUBMSK      0x4A00001C
